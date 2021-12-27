@@ -1,0 +1,45 @@
+/*
+
+Urbanic Template
+
+http://www.templatemo.com/tm-395-urbanic
+
+*/
+
+body, html { overflow-x:hidden; }
+
+
+
+body {
+    background-color: #ffffff;
+    font-family:  'Open Sans', Arial, Helvetice Neue, sans-serif;
+    font-size: 12px;
+
+	font-weight: 300;
+	font-style: normal;
+	-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
+	-webkit-text-size-adjust: 100%;
+
+
+}
+
+h1, h2, h3, h4, h5, h6, span, p { font-family: 'Open Sans', Arial, Helvetice Neue, sans-serif; }
+
+.container1{
+
+  height: 550px;
+  background: #428bca;
+  padding: 60px;
+
+  text-align: center;
+  border-radius:10px;
+  text-decoration-color: white;
+  width: 550px;
+}
+
+.text{
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  font-style: italic;
+}
